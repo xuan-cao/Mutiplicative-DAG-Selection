@@ -1,4 +1,4 @@
-# Spike-and-Slab-Cholesky
+# Multiplicative prior for sparsity selection in High-dimensional Gaussian DAG Models
 
 Run Spike_Slab_Cholesky.R for sparsity selection in the Cholesky factor under Spike and Slab Cholesky prior and multiplicative graph prior.
 
